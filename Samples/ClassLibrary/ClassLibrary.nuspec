@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Class Library</title>
+    <authors>$author$</authors>
+    <owners>Domain Group</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Class library</description>
+    <releaseNotes>[release notes]</releaseNotes>
+    <copyright>Domain Group Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>

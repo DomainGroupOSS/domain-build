@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Domain.NuGetPackager</id>
+    <version>2.0.0</version>
+    <title>Domain NuGet Packager</title>
+    <authors>Fabien Ruffin</authors>
+    <owners>Domain Group</owners>
+    <iconUrl>http://www.domain.com.au/content/files/99x99.png</iconUrl>
+    <projectUrl>https://github.com/DomainGroupOSS/domain-build</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package will register the build targets for the console applications and class libraries in preparation for a build, to be used in conjunction with Domain.Build.Scripts</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Domain Group Copyright 2016</copyright>
+    <tags>domain nuget packager build psake</tags>
+    <developmentDependency>true</developmentDependency>
+	  <dependencies>
+      <dependency id="NuGet.CommandLine" version="3.4.3" />
+    </dependencies>
+  </metadata>
+</package>

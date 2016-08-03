@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>ConsoleApplication</id>
+    <version>1.0.[buildNumber]</version>
+    <title>Console Application</title>
+    <authors>Fabien Ruffin</authors>
+    <owners>Domain Group</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Console Application</description>
+    <releaseNotes>[release notes]</releaseNotes>
+    <copyright>Domain Group Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Domain.MSTestRunner</id>
+    <version>2.0.0</version>
+    <title>Domain MSTest Runner</title>
+    <authors>Fabien Ruffin</authors>
+    <owners>Domain Group</owners>
+    <iconUrl>http://www.domain.com.au/content/files/99x99.png</iconUrl>
+    <projectUrl>https://github.com/DomainGroupOSS/domain-build</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package will register the build target for the MSTest test runner, to be used in conjunction with Domain.Build.Scripts</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Domain Group Copyright 2016</copyright>
+    <tags>domain mstest test runner build psake</tags>
+    <dependencies>
+      <dependency id="OpenCover" version="4.6.519" />
+      <dependency id="ReportGenerator" version="2.4.5" />
+    </dependencies>
+  </metadata>
+</package>

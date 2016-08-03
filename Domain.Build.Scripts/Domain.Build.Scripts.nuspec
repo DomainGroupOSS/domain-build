@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Domain.Build.Scripts</id>
+    <version>2.0.0</version>
+    <title>Domain Build Scripts</title>
+    <authors>Fabien Ruffin</authors>
+    <owners>Domain Group</owners>
+    <iconUrl>http://www.domain.com.au/content/files/99x99.png</iconUrl>
+    <projectUrl>https://github.com/DomainGroupOSS/domain-build</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains a generic, portable and reusable build script for .Net</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Domain Group Copyright 2016</copyright>
+    <tags>domain build psake</tags>
+    <dependencies>
+      <dependency id="7-Zip.CommandLine" version="9.20.0" />
+      <dependency id="NuGet.CommandLine" version="3.4.3" />
+      <dependency id="psake" version="4.6.0" />
+    </dependencies>
+  </metadata>
+</package>
